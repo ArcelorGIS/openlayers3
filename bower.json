@@ -1,0 +1,21 @@
+{
+  "name": "openlayers3",
+  "homepage": "https://github.com/ArcelorGIS/openlayers3",
+  "authors": [
+    "Cedric Corthout <cedric.corthout.external@arcelormittal.com>"
+  ],
+  "description": "custom openlayers3 implementation for Arcelor",
+  "main": "ol-debug.js",
+  "keywords": [
+    "openlayers"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
