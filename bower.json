@@ -5,7 +5,7 @@
     "Cedric Corthout <cedric.corthout.external@arcelormittal.com>"
   ],
   "description": "custom openlayers3 implementation for Arcelor",
-  "main": "ol-debug.js",
+  "main": ["ol-debug.js","ol.css"],
   "keywords": [
     "openlayers"
   ],
